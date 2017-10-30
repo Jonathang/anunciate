@@ -1,0 +1,99 @@
+<!doctype html>
+<html class="no-js" lang="esp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Anunciate Durango</title>
+        <meta name="description" content="Anunciate, Durango, ">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+        
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrapValidator.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/animate.css">        
+        <link rel="stylesheet" href="css/animate.min.css">
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+    <div> <!-- MENU-BARRA -->
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-nav">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle " data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a id="texto" class="navbar-brand" href="#"><img></a>
+                </div> <!--.navbar-header-->
+                <div class="nav navbar-collapse" id="collapse">
+                    <ul class="nav navbar-nav">
+                        <li> <a data-scroll="" href="anunciate.php">Anunciate</a></li>
+                        <li> <a data-scroll="" href="ayuda.php">Ayuda</a></li>
+                        <li> <a data-scroll="" href="login.php">Mi Cuenta</a>
+                        </li>
+                    </ul>
+                </div> <!--.navbar-collapse--> 
+            <p>Que estas buscando</p>    
+            </div> <!--.container-->
+        </nav> <!--.navbar navbar-->         
+    </div>    
+    <div>
+        <div class="container-publica col-md-12">
+            <img src="img/publica.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="container-opciones"> 
+        <section> <!-- MENU-OPCIONES-->
+        <ul class="hList">
+  <li>
+    <a href="#click" class="menu">
+      <h2 class="menu-title">Comercio <i class="fa fa-truck" aria-hidden="true"></i></h2>
+      <ul class="menu-dropdown">
+        <li>Restaurantes</li>
+        <li>lipsum hum</li>
+        <li>lipsum hum</li>
+        <li>lipsum hum</li>
+        <li>lipsum hum</li>
+      </ul>
+    </a>
+  </li>
+
+  <li>
+    <a href="#click" class="menu">
+      <h2 class="menu-title menu-title_2nd">Bolsa de Trabajo</h2>
+      <ul class="menu-dropdown">
+        <li>Lipsum hum</li>
+        <li>Lipsum hum</li>
+        <li>Lipsum hum</li>
+      </ul>
+    </a>
+  </li>
+        </ul>
+         </section>
+    </div>
+
+        
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.5/waypoints.min.js"></script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/bootstrapValidator.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/smooth-scroll.js"></script>
+        <script src="js/waypoint.js"></script>
+        <script src="js/materialize.min.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
+
